@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Input/IMC_Default.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_TargetTest.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Input/IA_LockOn.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPC_Combat.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/Combat_Animations/SwordAttackCombo.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Input/IMC_Default.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/Combat_Animations/BigAttack.uasset",
@@ -73,7 +67,17 @@
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPC_Combat.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/Movement_Animations/BS_StrafeMovement.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset"
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/e_stats.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPC_Stats.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/WB_Hud.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/WB_PlayerHealth.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Input/IMC_Default.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_TargetTest.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Input/IA_LockOn.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPC_Combat.uasset"
 			]
 		}
 	]
