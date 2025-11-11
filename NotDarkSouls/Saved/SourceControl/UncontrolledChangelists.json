@@ -15,7 +15,14 @@
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/AI/BP_Enemy.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/AI/Task_ChaseTarget.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPC_Combat.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset"
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/ABP_Unarmed.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/Combat_Animations/Montage.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/Sword.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/ANS_Notify_Weapon_Damage.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPI_WeaponDamage.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPI_Enemy.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/AI/BTTask_SwordAttack.uasset"
 			]
 		}
 	]
