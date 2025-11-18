@@ -5,15 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/DA_Item.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/MeleeInstance.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPI_ItemPickup.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BP_PickupItem.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPW_Inventory.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/WB_ItemSlot.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/PN/J2BCIE4RGUOK2IRZXIQONB.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/DA_BlueKey.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/R4/5HLYW07SG0DKZICXYS1TUJ.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPC_Stats.uasset",
@@ -31,7 +22,18 @@
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/ANS_Notify_Weapon_Damage.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPI_WeaponDamage.uasset",
 				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BPI_Enemy.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/AI/BTTask_SwordAttack.uasset"
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/AI/BTTask_SwordAttack.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPW_Inventory.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/WB_ItemSlot.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/DA_Item.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/MeleeInstance.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPI_ItemPickup.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BP_PickupItem.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/BPW_Inventory.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/ThirdPerson/Blueprints/WB_ItemSlot.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/PN/J2BCIE4RGUOK2IRZXIQONB.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Week10ThroughTwelve/NotDarkSouls/Content/Malee/DA_BlueKey.uasset"
 			]
 		}
 	]
